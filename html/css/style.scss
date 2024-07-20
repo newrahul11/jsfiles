@@ -1,0 +1,45 @@
+.national-park{
+    h1{
+        text-align: center;
+        background-color: #66694e;
+        color: white;
+        margin-bottom: 30px;
+        margin-top: 20px;
+        padding: 10px;
+    }
+    .img-sec{
+        img{
+            width: 100%;
+        }
+    }
+    .text-wrapper{
+        .title-sec{
+            h2{
+                text-align: center;
+                background-color: #a67a4b;
+                border-radius: 10px;
+                text-shadow: 0px 0px 3px black;
+                letter-spacing: 2px;
+            }
+        }
+        .text-sec{
+            .heading{
+                margin-bottom: 10px;
+                h3{
+                    text-align: center;
+                   
+                }
+            }
+            .info{
+                p:first-letter
+                {
+                    font-size: 20px;
+                }
+                p:first-letter{
+                    color: #66694e;
+                    font-size: 50px;
+                }
+            }
+        }
+    }
+}
